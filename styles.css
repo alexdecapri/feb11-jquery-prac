@@ -1,0 +1,14 @@
+body {
+	background-color: teal;
+}
+
+.main {
+	background-color: yellow;
+	height: 300px;
+	width: 300px;
+}
+
+.green {
+	background-color: green;
+/*	height: 100px;
+*/}
